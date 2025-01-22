@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🧑🏻‍💻 Junior Web Programmer:<br>🔹 HTML, CSS, SASS (intermediate level)<br>🔹 Python & Django (lower level)<br>🔹 JavaScript (lower level)<br><br>🧱 Builder of LEGO worlds where only imagination defines the boundaries ✨<br>🏋️‍♂️ fitness & 🏃‍♂️ running<br>✨ Inspiration & moving forward every day!<br><br>📫 Shoot me an <a href="mailto:jan.horcicka@yahoo.com">Email</a> or add me on <a href="https://www.linkedin.com/in/jonhorcicka/" target="_blank">LinkedIn</a>
+🧑🏻‍💻 Junior Web Programmer:<br>🔹 HTML, CSS, SASS (intermediate level)<br>🔹 Python & Django (lower level)<br>🔹 JavaScript (lower level)<br><br>🧱 Builder of LEGO worlds where only imagination defines the boundaries ✨<br>🏋️‍♂️ fitness & 🏃‍♂️ running<br>✨ Inspiration & moving forward every day!<br><br>📫 Shoot me an <a href="mailto:jan.horcicka@yahoo.com">Email</a> or add me on <a href="https://www.linkedin.com/in/jonhorcicka/" target="blank">LinkedIn</a>
 
 
 ## 🌐 Socials:
